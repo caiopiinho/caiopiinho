@@ -36,8 +36,8 @@
 
 ## 🌍 Idiomas
 
-- 🇧🇷 Português: Nativo
-- 🇺🇸 Inglês: Intermediário
+- Português: Nativo/FLuente.
+- Inglês: Intermediário.
 
 ---
 
