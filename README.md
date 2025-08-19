@@ -6,7 +6,7 @@
 
 Também possuo prática em edição de imagens e vídeos (Photoshop, Premiere, Figma, Canva, Adobe XD, Gimp) e familiaridade com Windows e Linux (Ubuntu), diversas IDEs, ferramentas de desenvolvimento, softwares de produtividade e IA moderna (ChatGPT, Google Gemini, DeepSeek, Claude, Blackbox.ai).<br>
 
-Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir em projetos e equipes na área de Tecnologia da Informação.
+Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir em projetos<br>e equipes na área de Tecnologia da Informação.
 
 ---
 
