@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio José de Pinho Martins
 
-🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** no [UNILESTE](https://www.unileste.edu.br), e estou em busca de oportunidades de **estágio em Tecnologia da Informação**.
+🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** no [Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de oportunidades de **estágio em Tecnologia da Informação**.
 
 💻 Conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**. Experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e domínio dos sistemas **Windows & Linux**.
 
@@ -43,8 +43,8 @@
 
 ## 📫 Onde me encontrar
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopinhooficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiopinho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopinhooficial@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caiopinho)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiopiinho)
 
 ---
