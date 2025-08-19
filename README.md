@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou o Caio José de Pinho Martins
 
-🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de oportunidades de **estágio em Tecnologia da Informação**.
+🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br> oportunidades de **estágio em Tecnologia da Informação**.
 
-💻 Tenho conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**.  
-Também possuo experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e sistemas como **Windows & Linux (Ubuntu)**, além de vários outros softwares atuais.
+💻 Tenho conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**. Também possuo experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e sistemas como **Windows & Linux (Ubuntu)**, além de vários outros softwares atuais.
 
 ---
 
@@ -39,22 +38,11 @@ Também possuo experiência em **edição de imagens e vídeos** (Photoshop, Pre
 
 ### Sistemas Operacionais & Escritório
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
 ### Inteligência Artificial / Ferramentas Modernas
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4B0082?style=for-the-badge&logo=deepseek&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-3AA5FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![Blackbox.ai](https://img.shields.io/badge/Blackbox.ai-000000?style=for-the-badge&logo=blackbox&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4B0082?style=for-the-badge&logo=deepseek&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-3AA5FF?style=for-the-badge&logo=anthropic&logoColor=white) ![Blackbox.ai](https://img.shields.io/badge/Blackbox.ai-000000?style=for-the-badge&logo=blackbox&logoColor=white)
 
 ---
 
