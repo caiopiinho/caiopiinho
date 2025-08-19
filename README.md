@@ -8,8 +8,6 @@ Também possuo prática em edição de imagens e vídeos (Photoshop, Premiere, F
 
 Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir em projetos<br>e equipes na área de Tecnologia da Informação.
 
----
-
 ## 🚀 Habilidades Técnicas
 
 ### Linguagens & Banco de Dados
@@ -59,8 +57,6 @@ Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas ha
 ![Claude](https://img.shields.io/badge/Claude-3AA5FF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Blackbox.ai](https://img.shields.io/badge/Blackbox.ai-000000?style=for-the-badge&logo=blackbox&logoColor=white)
 
----
-
 ## 📌 Experiência Profissional
 
 **Assistente Administrativo – Hospital Municipal Eliane Martins (2022)**
@@ -68,14 +64,10 @@ Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas ha
 - Apoio no cadastramento de pedidos e organização de resultados de exames
 - Contribuição para o fluxo de trabalho eficiente no setor de saúde
 
----
-
 ## 🌍 Idiomas
 
 - Português: Nativo/Fluente
 - Inglês: Intermediário
-
----
 
 ## 📫 Contato
 
