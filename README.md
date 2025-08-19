@@ -80,7 +80,3 @@ Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas ha
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiopinhooficial@gmail.com) / [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caiopinho) / [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiopiinho)
-
----
-
-📌 _Busco um ambiente colaborativo onde eu possa aplicar minhas habilidades, contribuir para os objetivos da equipe e evoluir profissionalmente na área de TI._
