@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Caio José de Pinho Martins
 
-🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br>oportunidades de **estágio em Tecnologia da Informação**, além de varios outros Softwares atuais.
+🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br>oportunidades de **estágio em Tecnologia da Informação**.
 
-💻 Conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**. Experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e sistemas como **Windows & Linux**.
+💻 Conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**. Experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e sistemas como **Windows & Linux (Ubuntu)**, além de varios outros Softwares atuais.
 
 ---
 
@@ -27,6 +27,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
