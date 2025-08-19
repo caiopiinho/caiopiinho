@@ -3,6 +3,7 @@
 🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br>oportunidades de **estágio em Tecnologia da Informação**.
 
 💻 Tenho experiência com Java e SQL (MySQL, SQL Server, Postgres) e atualmente estou aprimorando minhas habilidades em Python. Também possuo prática em edição de imagens e vídeos (Photoshop, Premiere, Figma, Canva, Adobe XD, Gimp) e familiaridade com Windows e Linux (Ubuntu), diversas IDEs, ferramentas de desenvolvimento, softwares de produtividade e IA moderna (ChatGPT, Google Gemini, DeepSeek, Claude, Blackbox.ai).<br>
+
 Estou constantemente em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir em projetos e equipes na área de Tecnologia da Informação.
 
 ---
