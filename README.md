@@ -49,4 +49,4 @@
 
 ---
 
-📌 _Busco um ambiente colaborativo onde eu possa aplicar minhas habilidades, contribuir para os objetivos da equipe e evoluir profissionalmente na área de TI._
+📌 _Busco um ambiente colaborativo onde eu possa aplicar minhas habilidades, contribuir para os objetivos da equipe<br>e evoluir profissionalmente na área de TI._
