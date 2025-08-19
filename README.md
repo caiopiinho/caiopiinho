@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio José de Pinho Martins
 
-🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de oportunidades de **estágio em Tecnologia da Informação**.
+🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br>oportunidades de **estágio em Tecnologia da Informação**.
 
 💻 Tenho conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**.  
 Também possuo experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp) e sistemas como **Windows & Linux (Ubuntu)**, além de vários outros softwares atuais.
