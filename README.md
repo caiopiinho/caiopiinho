@@ -2,8 +2,10 @@
 
 🎓 Sou Estudante do 4° Período de Bacharel em **Sistemas de Informação** pela Universidade:<br>[Centro Universitário Católica do Leste de Minas Gerais - UNILESTE](https://unileste.catolica.edu.br/portal/), e estou em busca de<br>oportunidades de **estágio em Tecnologia da Informação**.
 
-💻 Tenho conhecimentos em **Java (POO)**, **MySQL**, **modelagem de dados** e **consultas SQL**.  
-Também possuo experiência em **edição de imagens e vídeos** (Photoshop, Premiere, Figma, Canva, Clipchamp)<br>e sistemas como **Windows & Linux (Ubuntu)**, além de vários outros softwares atuais.
+💻 Possuo conhecimentos em Java (POO), Python, XML, MySQL, SQL Server e Postgres, aplicados em projetos acadêmicos e pessoais para desenvolver soluções estruturadas e eficientes.
+Tenho experiência em edição de imagens e vídeos com Photoshop, Premiere, Figma, Canva, Adobe XD e Gimp, combinando criatividade com precisão técnica.
+Sou familiarizado com Windows e Linux (Ubuntu), diversas IDEs e ferramentas de desenvolvimento (PyCharm, VS Code, NetBeans, Notepad++), softwares de produtividade e colaboração (Office, LibreOffice, Drive, OneDrive, Dropbox) e ferramentas de IA modernas como ChatGPT, Google Gemini, DeepSeek, Claude e Blackbox.ai.
+Estou em constante aprimoramento, buscando contribuir de forma significativa para projetos e equipes na área de Tecnologia da Informação.
 
 ---
 
